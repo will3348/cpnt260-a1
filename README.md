@@ -7,6 +7,6 @@ link to gihub page site https://will3348.github.io/cpnt260-a1/
 when I was setting background pic on ``` <header> ```
 I can't make it spread very good.
 I searched document.
-used ```` background-repeat: no-repeat;```
-     ```background-position: center;```
-      ```background-size: cover;```
+used  ```{background-repeat: no-repeat;}
+     {background-position: center;}
+      {background-size: cover;}```
